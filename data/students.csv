@@ -1,0 +1,21 @@
+Student ID,Name,Age,Gender,Class,Math Marks,Science Marks,English Marks,Attendance Percentage,Study Hours
+S001,Aarav Sharma,15,Male,10-A,88,91,84,96,12
+S002,Diya Patel,15,Female,10-A,76,82,79,91,9
+S003,Kabir Khan,16,Male,10-A,65,71,68,87,7
+S004,Meera Iyer,15,Female,10-A,94,89,92,98,14
+S005,Rohan Das,16,Male,10-A,39,45,41,78,4
+S006,Ananya Singh,15,Female,10-B,81,85,88,93,10
+S007,Vihaan Gupta,16,Male,10-B,72,68,75,89,8
+S008,Sara Thomas,15,Female,10-B,55,61,58,82,6
+S009,Arjun Nair,16,Male,10-B,105,77,73,88,7
+S010,Ishita Roy,15,Female,10-B,90,94,89,97,13
+S011,Neil Joseph,16,Male,10-B,,64,69,85,5
+S012,Tara Kapoor,15,Female,10-C,87,86,91,95,11
+S013,Dev Malhotra,16,Male,10-C,63,-5,66,80,6
+S014,Nisha Verma,15,Female,10-C,78,74,82,102,9
+S015,Aditya Rao,16,Male,10-C,44,52,47,76,3
+S016,Myra Bose,15,Female,10-C,83,88,85,90,10
+S017,Om Prakash,not available,Male,10-C,69,73,71,84,7
+S018,,16,Female,10-A,71,70,76,86,8
+S019,Saanvi Mehta,15,,10-B,92,90,94,99,15
+S020,Kiaan Shah,16,Male,10-C,58,62,60,invalid,5
